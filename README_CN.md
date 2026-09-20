@@ -10,7 +10,7 @@
 ![Gameplay Screenshot](./images/game.png)
 
 <p align="center">
-  <img src="./images/gameplay.png" alt="Gameplay Screenshot" width="800">
+  <img src="./images/game.png" alt="Gameplay Screenshot" width="600">
 </p>
 
 ---
@@ -106,7 +106,7 @@
 ![Gameplay Screenshot](./images/BOSS level.png)
 
 <p align="center">
-  <img src="./images/gameplay.png" alt="Gameplay Screenshot" width="800">
+  <img src="./images/BOSS level.png" alt="Gameplay Screenshot" width="600">
 </p>
 
 ### Boss 战
