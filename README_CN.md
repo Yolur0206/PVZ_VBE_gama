@@ -1,6 +1,7 @@
 <p align="right">
   <a href="./README.md">English</a> | 简体中文
 </p>
+
 # Plants vs. Zombies：砸罐子无尽版改版
 
 这是一个针对《植物大战僵尸》（Plants vs. Zombies）一代 PC 版制作的改版仓库。
