@@ -7,6 +7,10 @@ This repository contains a modified version of **Vasebreaker Endless** for the o
 
 The mod introduces new level mechanics, enhanced zombies, upgraded plants, Boss battles, special event levels, and three difficulty versions.
 
+<p align="center">
+  <img src="./images/game.png" alt="Gameplay Screenshot" width="600">
+</p>
+
 ---
 
 ## Requirements
@@ -58,6 +62,7 @@ Hotkeys can be customized in Cheat Engine. After loading the `.CT` table, you ca
 | Hold `2 (@)` | Speed up the game |
 | `Ctrl + J` | Initialize the mod or restore the original game mode |
 | `Ctrl + K` | Enter the modified game mode |
+| `Ctrl + L` | kill all zombies |
 
 ---
 
@@ -97,6 +102,10 @@ There are two full-moon nights during the game:
 Levels 10 and 20 are the only dedicated Crisis Levels.
 
 During a Crisis Level, a plant has a chance to leave behind a gravestone when it dies. This can prevent its normal on-death effect from activating.
+
+<p align="center">
+  <img src="./images/BOSS level.png" alt="Gameplay Screenshot" width="600">
+</p>
 
 ### Boss Battles
 
