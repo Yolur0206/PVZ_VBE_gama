@@ -7,6 +7,12 @@
 
 本项目在原版基础上，对解谜模式中的「砸罐子无尽版」（Vasebreaker Endless）进行了大量修改，包括全新的关卡机制、特殊僵尸、强化植物、Boss 战和奇遇关卡等内容。
 
+![Gameplay Screenshot](./images/game.png)
+
+<p align="center">
+  <img src="./images/gameplay.png" alt="Gameplay Screenshot" width="800">
+</p>
+
 ---
 
 ## 运行要求
@@ -57,7 +63,7 @@
 | 长按 `2（@）` | 加速运行 |
 | `Ctrl + J` | 初始化／从改版恢复至原版 |
 | `Ctrl + K` | 从原版进入改版模式 |
-
+| `Ctrl + L` | 秒杀所有僵尸 |
 ---
 
 # 主要改动
@@ -96,6 +102,12 @@
 危机关卡仅有第10关和第20关。
 
 在危机关卡中，植物死亡后有概率生成墓碑，使植物原本的「亡语」效果失效。
+
+![Gameplay Screenshot](./images/BOSS level.png)
+
+<p align="center">
+  <img src="./images/gameplay.png" alt="Gameplay Screenshot" width="800">
+</p>
 
 ### Boss 战
 
